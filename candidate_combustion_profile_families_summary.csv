@@ -1,0 +1,308 @@
+filter_tier,initial_group,profile_family,rows,example_profile_name,reasons
+A_core_v0,fuel oil/diesel,diesel exhaust,312,Diesel Exhaust - Farm equipment,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,motor vehicle exhaust,182,Motor Vehicle Exhaust,fuel oil; transport exhaust
+A_core_v0,wood/biomass,residential wood burning,82,Residential Wood Burning,residential/heating; transport exhaust
+A_core_v0,wood/biomass,residential wood combustion,71,Residential Wood Combustion,residential/heating; transport exhaust
+A_core_v0,coal,coal combustion,62,Coal Combustion,coal/lignite; industrial/reference proxy; residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,oil,44,Oil-Fired Power Plant,fuel oil; industrial/reference proxy; transport exhaust
+A_core_v0,wood/biomass,vegetative burning,28,Vegetative Burning,waste/open burning; wildfire/agri biomass proxy
+A_core_v0,fuel oil/diesel,biodiesel exhaust,27,Biodiesel Exhaust - Light Duty Truck operated at 24.1 oC; Cold Start,fuel oil; transport exhaust
+A_core_v0,wood/biomass,fireplace wood combustion,25,Fireplace wood combustion - eucalyptus wood,residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,vehicle exhaust,20,Vehicle Exhaust - Tuscarora Tunnel Diesel - 1995,fuel oil; transport exhaust
+A_core_v0,wood/biomass,fireplaces,20,Fireplaces - Softwoods,residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,heavy duty vehicles,16,Heavy Duty Vehicles - Diesel,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,light duty vehicles,16,Light Duty Vehicles - Diesel,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,gasoline vehicle,15,Gasoline Vehicle,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel headspace vapor,14,Diesel Headspace Vapor - Circle K Diesel - adjusted for oxygenates,fuel oil
+A_core_v0,fuel oil/diesel,oil combustion,14,Oil Combustion,fuel oil; industrial/reference proxy; transport exhaust
+A_core_v0,coal,residential coal combustion,13,Residential Coal Combustion,coal/lignite; residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,external combustion,12,External Combustion - Heavy Oil-Fired Boiler Composite,fuel oil; industrial/reference proxy; transport exhaust
+A_core_v0,waste/open burning,municipal incinerator,12,Municipal Incinerator (Philadelphia),waste/open burning
+A_core_v0,wood/biomass,forest fire,12,Forest Fire,transport exhaust; waste/open burning; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,residential woodstove,12,"Residential Woodstove - Medford, Oregon",residential/heating
+A_core_v0,wood/biomass,wood stoves,12,Wood Stoves - Pine Fuel,residential/heating
+A_core_v0,fuel oil/diesel,liquid diesel,10,Liquid Diesel - California composite,fuel oil
+A_core_v0,wood/biomass,external combustion,8,External Combustion - Wood-Fired Boiler Composite,industrial/reference proxy; transport exhaust
+A_core_v0,wood/biomass,grass fire,8,Grass Fire-Flaming-Oregon AE6,transport exhaust; wildfire/agri biomass proxy
+A_core_v0,fuel oil/diesel,residual oil combustion,7,Residual Oil Combustion,fuel oil; transport exhaust
+A_core_v0,wood/biomass,residential wood stove combustion,7,Residential Wood Stove Combustion - White Oak,residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,light duty diesel exhaust,6,Light Duty Diesel Exhaust - diesel and biodiesel - Euro4,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,marine vessel,6,Marine Vessel - Main Engine - Heavy Fuel Oil,fuel oil
+A_core_v0,coal,external combustion boiler,5,External Combustion Boiler - Coal-Slurry Fired,coal/lignite; industrial/reference proxy; transport exhaust
+A_core_v0,fuel oil/diesel,diesel generator exhaust,5,Diesel Generator Exhaust,fuel oil; industrial/reference proxy
+A_core_v0,waste/open burning,tire burning,5,Tire Burning,industrial/reference proxy; waste/open burning
+A_core_v0,wood/biomass,outdoor wood,5,Outdoor Wood-fired Boiler - Red Oak,residential/heating; waste/open burning
+A_core_v0,coal,coal,4,Coal- And Refuse Derived Fuel (RDF)-Fired Power Plant,coal/lignite; industrial/reference proxy; waste/open burning
+A_core_v0,coal,external combustion,4,External Combustion - Coal-Fired Composite,coal/lignite; industrial/reference proxy; transport exhaust
+A_core_v0,coal,residential space heating,4,Residential Space Heating - Coal,coal/lignite; residential/heating
+A_core_v0,fuel oil/diesel,boiler,4,Boiler - #2 Fuel Oil Fired,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,conventional diesel exhaust,4,Conventional Diesel Exhaust - Idle Cycle,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel vehicles,4,Diesel Vehicles - Las Vegas Valley (1987),fuel oil
+A_core_v0,fuel oil/diesel,heavy duty diesel,4,Heavy Duty Diesel,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,heavy duty diesel trucks,4,Heavy Duty Diesel Trucks,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,onroad diesel non,4,Onroad Diesel Non-DPF Idle,fuel oil
+A_core_v0,fuel oil/diesel,residual oil,4,Residual Oil-Fired Boiler / Petroleum Refinery,fuel oil; transport exhaust
+A_core_v0,waste/open burning,municipal incinerator composite,4,Municipal Incinerator Composite,waste/open burning
+A_core_v0,wood/biomass,composite of residential wood burning sources,4,Composite of Residential Wood Burning Sources,residential/heating
+A_core_v0,wood/biomass,composite profile,4,Composite Profile - Forest Fires,transport exhaust; waste/open burning; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,residential wood combustion composite,4,Residential Wood Combustion Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,residential woodstove composite,4,Residential Woodstove Composite,residential/heating
+A_core_v0,wood/biomass,sugar cane pre,4,Sugar Cane Pre-Harvest Burning Florida,transport exhaust; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,wood combustion,4,Wood Combustion - Las Vegas Valley (1987),residential/heating; transport exhaust
+A_core_v0,fuel oil/diesel,diesel vehicle,3,Diesel Vehicle,fuel oil
+A_core_v0,fuel oil/diesel,distillate oil combustion,3,Distillate Oil Combustion,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,gasoline exhaust,3,Gasoline Exhaust,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel marine,3,Nonroad Diesel Marine,fuel oil
+A_core_v0,fuel oil/diesel,nonroad residual oil marine,3,Nonroad Residual Oil Marine,fuel oil
+A_core_v0,fuel oil/diesel,onroad diesel dpf,3,Onroad Diesel DPF,fuel oil
+A_core_v0,waste/open burning,garbage burning,3,Garbage Burning,waste/open burning
+A_core_v0,wood/biomass,residential vegetative burning,3,Residential Vegetative Burning,residential/heating; wildfire/agri biomass proxy
+A_core_v0,coal,draft bituminous coal combustion,2,Draft Bituminous Coal Combustion - Composite,coal/lignite; transport exhaust
+A_core_v0,coal,draft pmso2controlledlignitecombustion,2,Draft PMSO2ControlledLigniteCombustion - Composite,coal/lignite; transport exhaust
+A_core_v0,coal,draft residential coal combustion,2,Draft Residential Coal Combustion - Composite,coal/lignite; residential/heating; transport exhaust
+A_core_v0,coal,draft subbituminouscombustion,2,Draft SubBituminousCombustion - Composite,coal/lignite; transport exhaust
+A_core_v0,coal,lignite combustion,2,Lignite Combustion - Composite,coal/lignite; transport exhaust
+A_core_v0,coal,sub,2,Sub-Bituminous Combustion - Composite,coal/lignite; transport exhaust
+A_core_v0,fuel oil/diesel,diesel exhaust emissions from pre,2,Diesel Exhaust Emissions from Pre-2007 Model Year Heavy-Duty Diesel Trucks,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,draft lddv exhaust,2,Draft LDDV Exhaust - Composite,fuel oil
+A_core_v0,fuel oil/diesel,external combustion boiler,2,External Combustion Boiler - Residual Oil,fuel oil; industrial/reference proxy; transport exhaust
+A_core_v0,fuel oil/diesel,gasoline headspace vapor,2,Gasoline Headspace Vapor - Circle K Diesel - not adjusted for oxygenates,fuel oil
+A_core_v0,fuel oil/diesel,hddv exhaust,2,HDDV Exhaust - Composite,fuel oil
+A_core_v0,fuel oil/diesel,heavy duty diesel exhaust,2,Heavy Duty Diesel Exhaust - Euro3,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,lddv exhaust,2,LDDV Exhaust - Composite,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel airport,2,Nonroad Diesel Airport,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel pre,2,Nonroad Diesel Pre-Tier 1,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel tier 1,2,Nonroad Diesel Tier 1,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel tier 2,2,Nonroad Diesel Tier 2-3,fuel oil
+A_core_v0,fuel oil/diesel,onroad diesel 2010+,2,Onroad Diesel 2010+,fuel oil
+A_core_v0,fuel oil/diesel,passenger ferry,2,Passenger ferry - four-stroke diesel engines,fuel oil
+A_core_v0,fuel oil/diesel,volatility resolved liquid diesel,2,Volatility Resolved Liquid Diesel - California composite,fuel oil
+A_core_v0,waste/open burning,cons prd,2,CONS PRD- TIRE CLEANER AND WHEEL CLEANER (2010 UPDATE),waste/open burning
+A_core_v0,waste/open burning,consumer products: rubber and vinyl protectants,2,Consumer Products: Rubber And Vinyl Protectants - Aerosols,waste/open burning
+A_core_v0,waste/open burning,dry mill fuel ethanol production,2,Dry Mill Fuel Ethanol Production - distillation scrubber,waste/open burning
+A_core_v0,waste/open burning,industrial dust,2,Industrial Dust,waste/open burning
+A_core_v0,waste/open burning,paper waste burning,2,Paper Waste Burning,waste/open burning
+A_core_v0,wood/biomass,agricultural burning,2,Agricultural Burning - Rice Straw,waste/open burning; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,draft residential wood combustion: eucalyptus,2,Draft Residential Wood Combustion: Eucalyptus - Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: hard,2,Draft Residential Wood Combustion: Hard - Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: hardsoft,2,Draft Residential Wood Combustion: HardSoft - Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: hardsoftn/a,2,Draft Residential Wood Combustion: HardSoftN/A - Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: soft,2,Draft Residential Wood Combustion: Soft - Composite,residential/heating; transport exhaust
+A_core_v0,wood/biomass,forest fire understory,2,Forest Fire Understory-Flaming-Minnesota AE6,transport exhaust; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,outdoor hydronic heater,2,"Outdoor Hydronic Heater- one stage updraft conventional, seasoned red oak",residential/heating; transport exhaust
+A_core_v0,wood/biomass,residential coal combustion,2,Residential Coal Combustion,coal/lignite; residential/heating; transport exhaust
+A_core_v0,wood/biomass,"residential wood combustion – noncatalytic woodstove, hardwood",2,"Residential Wood Combustion – Noncatalytic Woodstove, Hardwood",residential/heating; transport exhaust
+A_core_v0,coal,"anthracite waste, fluidized bed combustor with ff baghouse",1,"Anthracite Waste, Fluidized Bed Combustor with FF Baghouse",coal/lignite; transport exhaust
+A_core_v0,coal,bituminous coal combustion,1,Bituminous Coal Combustion - Simplified,coal/lignite; transport exhaust
+A_core_v0,coal,"bituminous coal/pet. coke, fluidized bed combustor with sncr and ff baghouse",1,"Bituminous Coal/Pet. Coke, Fluidized Bed Combustor with SNCR and FF Baghouse",coal/lignite; transport exhaust
+A_core_v0,coal,bituminous combustion,1,Bituminous Combustion - Composite,coal/lignite; transport exhaust
+A_core_v0,coal,"bituminous waste, fluidized bed combustor with ff baghouse",1,"Bituminous Waste, Fluidized Bed Combustor with FF Baghouse",coal/lignite; transport exhaust
+A_core_v0,coal,draft pmcontrolledlignitecombustion,1,Draft PMControlledLigniteCombustion - Simplified,coal/lignite; transport exhaust
+A_core_v0,coal,"lignite coal, fluidized bed combustor with esp",1,"Lignite Coal, Fluidized Bed Combustor with ESP-CS",coal/lignite; transport exhaust
+A_core_v0,coal,"lignite coal, fluidized bed combustor with ff baghouse",1,"Lignite Coal, Fluidized Bed Combustor with FF Baghouse",coal/lignite; transport exhaust
+A_core_v0,coal,petroleum coke combustion,1,Petroleum Coke Combustion,coal/lignite; transport exhaust
+A_core_v0,coal,"subbituminous coal, fluidized bed combustor with sncr and ff baghouse",1,"Subbituminous Coal, Fluidized Bed Combustor with SNCR and FF Baghouse",coal/lignite; transport exhaust
+A_core_v0,fuel oil/diesel,composite profile,1,Composite Profile - Diesel Exhaust - Heavy-heavy duty truck - 2011 model year,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel composition,1,Diesel composition,fuel oil
+A_core_v0,fuel oil/diesel,diesel engines,1,Diesel Engines,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel exhaust emissions from 2007 model year heavy,1,Diesel Exhaust Emissions from 2007 Model Year Heavy-Duty Diesel Engines with Controls,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel exhaust emissions from tier 1 off,1,Diesel Exhaust Emissions from Tier 1 Off-road Engines,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel exhaust emissions from tier 2 off,1,Diesel Exhaust Emissions from Tier 2 Off-road Engines,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,diesel headspace vapor composite,1,Diesel Headspace Vapor Composite,fuel oil
+A_core_v0,fuel oil/diesel,draft distillate oil combustion,1,Draft Distillate Oil Combustion - Simplified,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,draft hddv exhaust,1,Draft HDDV Exhaust - Simplified,fuel oil
+A_core_v0,fuel oil/diesel,draft residual oil combustion,1,Draft Residual Oil Combustion - Simplified,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,"heavy duty diesel with dpf, combination of previous measurements with vbs",1,"Heavy Duty diesel with DPF, combination of previous measurements with VBS",fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,institutional boiler exhaust fueled with no. 6 fuel oil,1,Institutional boiler exhaust fueled with No. 6 fuel oil,fuel oil
+A_core_v0,fuel oil/diesel,institutional boiler exhaust fueled with no. 6 oil,1,Institutional boiler exhaust fueled with No. 6 oil,fuel oil
+A_core_v0,fuel oil/diesel,light,1,Light-Duty Diesel Vehicles,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,medium duty trucks,1,Medium duty trucks - diesel,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,mobile diesel,1,Mobile Diesel,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel airport ags,1,Nonroad Diesel Airport AGS,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel dpf,1,Nonroad Diesel DPF,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel non,1,Nonroad Diesel Non-DPF,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel rail,1,Nonroad Diesel Rail,fuel oil
+A_core_v0,fuel oil/diesel,nonroad diesel vehicle,1,"Nonroad Diesel Vehicle (aircraft, locomotive)",fuel oil
+A_core_v0,fuel oil/diesel,nonroad gasoline vehicle,1,Nonroad Gasoline Vehicle,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,nonroad marine using bunker fuel,1,Nonroad Marine using Bunker Fuel,fuel oil
+A_core_v0,fuel oil/diesel,reciprocating diesel engine,1,Reciprocating Diesel Engine,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,reciprocating distillate oil engine,1,Reciprocating Distillate Oil Engine,fuel oil; transport exhaust
+A_core_v0,fuel oil/diesel,unburned diesel exhaust,1,Unburned Diesel Exhaust - Tunnel Study,fuel oil; transport exhaust
+A_core_v0,waste/open burning,automobile tire production,1,Automobile Tire Production,waste/open burning
+A_core_v0,waste/open burning,chlorobenzene,1,Chlorobenzene - Tail Gas Scrubber,waste/open burning
+A_core_v0,waste/open burning,consumer products: tire cleaners,1,Consumer Products: Tire Cleaners,waste/open burning
+A_core_v0,waste/open burning,consumer products: tire sealants and inflators,1,Consumer Products: Tire Sealants And Inflators,waste/open burning
+A_core_v0,waste/open burning,draft tire burning,1,Draft Tire Burning - Simplified,waste/open burning
+A_core_v0,waste/open burning,"industrial point source, miles incorporated,  principle business: synthetic rubber",1,"Industrial Point Source, Miles Incorporated,  Principle Business: Synthetic Rubber - 1993",transport exhaust; waste/open burning
+A_core_v0,waste/open burning,open burning,1,Open Burning - Military Waste,waste/open burning
+A_core_v0,waste/open burning,organohalogens production,1,Organohalogens Production - Ethylene Dichloride - Caustic Scrubber,waste/open burning
+A_core_v0,wood/biomass,catalytic woodstove burn phase and wood composite,1,Catalytic Woodstove Burn Phase and Wood Composite,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove burn phase composite birch,1,Catalytic Woodstove Burn Phase Composite Birch,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove burn phase composite spruce,1,Catalytic Woodstove Burn Phase Composite Spruce,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove high burn rate birch,1,Catalytic Woodstove High Burn Rate Birch,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove high burn rate spruce,1,Catalytic Woodstove High Burn Rate Spruce,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove high burn rate wood composite,1,Catalytic Woodstove High Burn Rate Wood Composite,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove low burn rate birch,1,Catalytic Woodstove Low Burn Rate Birch,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove low burn rate spruce,1,Catalytic Woodstove Low Burn Rate Spruce,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove low burn rate wood composite,1,Catalytic Woodstove Low Burn Rate Wood Composite,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove startup birch,1,Catalytic Woodstove Startup Birch,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove startup spruce,1,Catalytic Woodstove Startup Spruce,residential/heating
+A_core_v0,wood/biomass,catalytic woodstove startup wood composite,1,Catalytic Woodstove Startup Wood Composite,residential/heating
+A_core_v0,wood/biomass,coal combustion,1,Coal Combustion - Prater Creek w/biomass,coal/lignite; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: almond,1,Draft Residential Wood Combustion: Almond - Simplified,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: cedar,1,Draft Residential Wood Combustion: Cedar - Simplified,residential/heating; transport exhaust
+A_core_v0,wood/biomass,draft residential wood combustion: synthetic,1,Draft Residential Wood Combustion: Synthetic - Simplified,residential/heating; transport exhaust
+A_core_v0,wood/biomass,open burning dump,1,Open Burning Dump - Landscape/Pruning,waste/open burning
+A_core_v0,wood/biomass,peat fire,1,Peat Fire-Smoldering-Minnesota AE6,transport exhaust; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,residential wood combustion (c,1,Residential Wood Combustion (C-1 - C-6),residential/heating; transport exhaust
+A_core_v0,wood/biomass,rice straw burning gap,1,Rice Straw Burning Gap-filled from 4420,waste/open burning; wildfire/agri biomass proxy
+A_core_v0,wood/biomass,wheat straw burning gap,1,Wheat Straw Burning Gap-filled from 4421,waste/open burning; wildfire/agri biomass proxy
+B_reference_later,coal,coal,132,Coal-Fired Power Plant,coal/lignite; industrial/reference proxy
+B_reference_later,wood/biomass,agriculture vegetative burning,29,Agriculture Vegetative Burning,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning,18,Slash Burning,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,field burning,16,Field Burning - Composite,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,biomass burning,15,Biomass Burning - Savanna & Grassland,coal/lignite; wildfire/agri biomass proxy
+B_reference_later,wood/biomass,forest fire,8,Forest Fire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning (conifer,8,Slash Burning (Conifer-Flaming Phase),wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning (crane,8,Slash Burning (Crane-Piled; Flaming Phase),wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning (hardwood,8,Slash Burning (Hardwood-Flaming Phase),wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning (ponderosa pine,8,Slash Burning (Ponderosa Pine-Flaming Phase),wildfire/agri biomass proxy
+B_reference_later,wood/biomass,slash burning (tractor,8,Slash Burning (Tractor-Piled; Flaming Phase),wildfire/agri biomass proxy
+B_reference_later,wood/biomass,wood,8,Wood-Fired Boiler,weak/false positive
+B_reference_later,wood/biomass,agricultural burning,7,Agricultural Burning - Rice Straw - Thailand,wildfire/agri biomass proxy
+B_reference_later,coal,cement kiln,6,Cement Kiln,coal/lignite; industrial/reference proxy
+B_reference_later,wood/biomass,cement kiln,5,Cement Kiln,coal/lignite; industrial/reference proxy
+B_reference_later,coal,cement kiln (coal,4,Cement Kiln (Coal-Fired),coal/lignite; industrial/reference proxy
+B_reference_later,coal,uncontrolled coal,4,Uncontrolled Coal-Fired Power Plant Composite,coal/lignite; industrial/reference proxy
+B_reference_later,wood/biomass,agricultural field burning,4,Agricultural Field Burning,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,composite profile,3,Composite Profile - Straw Burning,wildfire/agri biomass proxy
+B_reference_later,coal,bituminous coal,2,Bituminous Coal-Fired Power Plant,coal/lignite; industrial/reference proxy
+B_reference_later,coal,charcoal making kiln,2,Charcoal Making Kiln,coal/lignite; industrial/reference proxy
+B_reference_later,fuel oil/diesel,residual oil,2,Residual Oil-Fired Power Plant,fuel oil; industrial/reference proxy
+B_reference_later,wood/biomass,draft agricultural burning,2,Draft Agricultural Burning - Composite,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,draft slash burning,2,Draft Slash Burning - Composite,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,draft wildfires,2,Draft Wildfires - Composite,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,wildfires,2,Wildfires - Composite,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,wood fired boiler,2,Wood Fired Boiler - Composite,weak/false positive
+B_reference_later,wood/biomass,agricultural burning composite,1,"Agricultural Burning Composite - Wheat Straw, Rice Straw and Corn Stalk - China",wildfire/agri biomass proxy
+B_reference_later,wood/biomass,barley stubble field burning,1,Barley Stubble Field Burning,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,bear grass,1,Bear Grass - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,ceanothus,1,Ceanothus - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,"chamise, polluted site",1,"Chamise, polluted site - Laboratory Wildfire",wildfire/agri biomass proxy
+B_reference_later,wood/biomass,"chamise, unpolluted site",1,"Chamise, unpolluted site - Laboratory Wildfire",wildfire/agri biomass proxy
+B_reference_later,wood/biomass,douglas fir,1,Douglas Fir - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,draft wood fired boiler,1,Draft Wood Fired Boiler - Simplified,weak/false positive
+B_reference_later,wood/biomass,engelmann spruce,1,Engelmann Spruce - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,jeffrey pine,1,Jeffrey Pine - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,juniper,1,Juniper - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,laboratory wildfire composite,1,Laboratory Wildfire Composite - Various non-grass fuel types,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,loblolly pine,1,Loblolly Pine - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,lodgepole pine,1,Lodgepole pine - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,"manzanita, polluted site",1,"Manzanita, polluted site - Laboratory Wildfire",wildfire/agri biomass proxy
+B_reference_later,wood/biomass,"manzanita, unpolluted site",1,"Manzanita, unpolluted site - Laboratory Wildfire",wildfire/agri biomass proxy
+B_reference_later,wood/biomass,miscellaneous burning,1,Miscellaneous Burning - Forest Fires,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,peat,1,Peat - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,ponderosa pine,1,Ponderosa Pine - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,rice straw,1,Rice Straw - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,rice straw and wheat straw burning composite of g4420 and g4421,1,Rice Straw and Wheat Straw Burning Composite of G4420 and G4421,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,rice straw burning,1,Rice Straw Burning,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,sage,1,Sage - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,subalpine fir,1,Subalpine Fir - Laboratory Wildfire,wildfire/agri biomass proxy
+B_reference_later,wood/biomass,wheat straw burning,1,Wheat Straw Burning,wildfire/agri biomass proxy
+C_drop,waste/open burning,transportation composite,20,Transportation Composite,transport exhaust; waste/open burning
+C_drop,coal,oil and natural gas production,15,Oil and Natural Gas Production - Produced Water Pond,coal/lignite
+C_drop,waste/open burning,tire wear,13,Tire Wear,waste/open burning
+C_drop,wood/biomass,wood products,10,Wood Products - Sander dust,weak/false positive
+C_drop,coal,coal combustion,9,Coal Combustion - Fly Ash - Subbituminous Coal - Ultrafine,coal/lignite; transport exhaust
+C_drop,coal,cooking,9,Cooking,coal/lignite
+C_drop,waste/open burning,tire dust,8,Tire Dust - Composite,waste/open burning
+C_drop,wood/biomass,hogged fuel boiler / plywood manufacturing,8,Hogged Fuel Boiler / Plywood Manufacturing,weak/false positive
+C_drop,wood/biomass,particle board dryer,8,Particle Board Dryer,weak/false positive
+C_drop,coal,charcoal manufacturing,6,Charcoal Manufacturing,coal/lignite
+C_drop,fuel oil/diesel,external combustion,6,External Combustion - Pulp and Paper Mills Kraft Process Recovery Boiler,fuel oil; industrial/reference proxy; transport exhaust
+C_drop,fuel oil/diesel,unpaved park dust,6,Unpaved Park Dust,fuel oil
+C_drop,wood/biomass,indoor open wood cooking fire,5,Indoor Open Wood Cooking Fire,weak/false positive
+C_drop,wood/biomass,prescribed burning,5,Prescribed Burning - Composite,weak/false positive
+C_drop,coal,"bituminous coal, pc boiler with esp",4,"Bituminous Coal, PC Boiler with ESP-CS",coal/lignite
+C_drop,coal,coal,4,Coal-Fired Power Utility Fly Ash (Srm 1633),coal/lignite; industrial/reference proxy
+C_drop,coal,coal dust,4,Coal Dust,coal/lignite
+C_drop,coal,fly ash,4,Fly Ash,coal/lignite; industrial/reference proxy
+C_drop,coal,"subbituminous coal, pc boiler with esp",4,"Subbituminous Coal, PC Boiler with ESP-CS",coal/lignite
+C_drop,fuel oil/diesel,transportation composite,4,"Transportation Composite - Medford, OR (1980)",fuel oil; transport exhaust
+C_drop,waste/open burning,antimony oxide plant,4,Antimony Oxide Plant - Antimony Roasting,waste/open burning
+C_drop,waste/open burning,phosphoric acid plant,4,Phosphoric Acid Plant,waste/open burning
+C_drop,wood/biomass,cooking,4,Cooking,coal/lignite
+C_drop,wood/biomass,forest prescribed burning,4,Forest Prescribed Burning - Broadcast Conifer,weak/false positive
+C_drop,wood/biomass,particleboard dryer / direct,4,Particleboard Dryer / Direct - Fired,weak/false positive
+C_drop,wood/biomass,sawdust,4,Sawdust,weak/false positive
+C_drop,wood/biomass,soil dust,4,"Soil Dust - Bend, Oregon",weak/false positive
+C_drop,wood/biomass,vegetative detritus,4,Vegetative Detritus,weak/false positive
+C_drop,wood/biomass,veneer dryer,4,Veneer Dryer,weak/false positive
+C_drop,wood/biomass,veneer dryer / steam,4,Veneer Dryer / Steam - Heated,weak/false positive
+C_drop,wood/biomass,veneer dryer / wood,4,Veneer Dryer / Wood - Fired,weak/false positive
+C_drop,wood/biomass,wood sander dust,4,Wood Sander Dust,weak/false positive
+C_drop,coal,"lignite coal, pc boiler with esp",3,"Lignite Coal, PC Boiler with ESP-CS",coal/lignite
+C_drop,coal,oil and gas,3,Oil and Gas -Powder River Basin Produced Gas Composition from CBM Wells,coal/lignite
+C_drop,waste/open burning,styrene,3,Styrene - General,waste/open burning
+C_drop,wood/biomass,composite profile,3,Composite Profile - Prescribed fire southeast conifer forest,weak/false positive
+C_drop,wood/biomass,paved road dust,3,Paved Road Dust,weak/false positive
+C_drop,wood/biomass,pulp and paper mills,3,Pulp and Paper Mills - Wood-Fired Boilers,weak/false positive
+C_drop,coal,industrial fly ash,2,Industrial Fly Ash,coal/lignite; industrial/reference proxy
+C_drop,coal,"subbituminous coal/bituminous coal, pc boiler with esp",2,"Subbituminous Coal/Bituminous Coal, PC Boiler with ESP-CS",coal/lignite
+C_drop,waste/open burning,automotive tires,2,Automotive Tires - Tuber Adhesive,waste/open burning
+C_drop,waste/open burning,composite,2,Composite - Tire Dust,waste/open burning
+C_drop,waste/open burning,draft tire dust,2,Draft Tire Dust - Composite,waste/open burning
+C_drop,waste/open burning,plastics production,2,Plastics Production - Polystyrene,waste/open burning
+C_drop,wood/biomass,draft prescribed burning,2,Draft Prescribed Burning - Composite,weak/false positive
+C_drop,wood/biomass,draft wood product drying,2,Draft Wood Product Drying - Composite,weak/false positive
+C_drop,wood/biomass,draft wood product sawing,2,Draft Wood Product Sawing - Composite,weak/false positive
+C_drop,wood/biomass,oil and gas production,2,"Oil and Gas Production - Untreated Natural Gas, Uinta Basin–Operator 14",weak/false positive
+C_drop,wood/biomass,wood,2,Wood-fired Industrial Boiler - NWWAS,weak/false positive
+C_drop,coal,asphalt roofing tar kettle,1,Asphalt Roofing Tar Kettle,coal/lignite
+C_drop,coal,"bituminous coal and pet. coke, pc boiler with esp",1,"Bituminous Coal and Pet. Coke, PC Boiler with ESP-CS",coal/lignite
+C_drop,coal,"bituminous coal, coal gasification",1,"Bituminous Coal, Coal Gasification",coal/lignite
+C_drop,coal,"bituminous coal, cyclone boiler with mechanical collector",1,"Bituminous Coal, Cyclone Boiler with Mechanical Collector",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with dry sorbent injection and esp",1,"Bituminous Coal, PC Boiler with Dry Sorbent Injection and ESP-CS",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with ff baghouse",1,"Bituminous Coal, PC Boiler with FF Baghouse",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with ff baghouse and wet fgd",1,"Bituminous Coal, PC Boiler with FF Baghouse and Wet FGD",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with pm scrubber",1,"Bituminous Coal, PC Boiler with PM Scrubber",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with scr and sda/ff baghouse",1,"Bituminous Coal, PC Boiler with SCR and SDA/FF Baghouse",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with sda/ff baghouse",1,"Bituminous Coal, PC Boiler with SDA/FF Baghouse",coal/lignite
+C_drop,coal,"bituminous coal, pc boiler with sncr and esp",1,"Bituminous Coal, PC Boiler with SNCR and ESP-CS",coal/lignite
+C_drop,coal,"bituminous coal, stoker boiler with sda/ff baghouse",1,"Bituminous Coal, Stoker Boiler with SDA/FF Baghouse",coal/lignite
+C_drop,coal,"bituminous coal/pet. coke, cyclone with esp",1,"Bituminous Coal/Pet. Coke, Cyclone with ESP-CS and Wet FGD",coal/lignite
+C_drop,coal,"bituminous coal/pet. coke, pc boiler with ff baghouse",1,"Bituminous Coal/Pet. Coke, PC Boiler with FF Baghouse",coal/lignite
+C_drop,coal,"bituminous coal/subbituminous coal, pc boiler with ff baghouse",1,"Bituminous Coal/Subbituminous Coal, PC Boiler with FF Baghouse",coal/lignite
+C_drop,coal,coal bed methane produced water profile,1,Coal Bed Methane Produced Water Profile - WY ponds,coal/lignite
+C_drop,coal,cons prd,1,CONS PRD- CHARCOAL LIGHTER MATERIAL (2010 UPDATE),coal/lignite
+C_drop,coal,consumer products: charcoal lighter materials,1,Consumer Products: Charcoal Lighter Materials,coal/lignite
+C_drop,coal,draft charcoal manufacturing,1,Draft Charcoal Manufacturing - Simplified,coal/lignite
+C_drop,coal,"lignite coal, cyclone boiler with esp",1,"Lignite Coal, Cyclone Boiler with ESP-CS",coal/lignite
+C_drop,coal,"lignite coal, cyclone boiler with sda/ff baghouse",1,"Lignite Coal, Cyclone Boiler with SDA/FF Baghouse",coal/lignite
+C_drop,coal,"lignite coal, pc boiler with pm scrubber",1,"Lignite Coal, PC Boiler with PM Scrubber",coal/lignite
+C_drop,coal,"lignite coal, pc boiler with sda/ff baghouse",1,"Lignite Coal, PC Boiler with SDA/FF Baghouse",coal/lignite
+C_drop,coal,"subbituminous coal, cyclone boiler with pm scrubber",1,"Subbituminous Coal, Cyclone Boiler with PM Scrubber",coal/lignite
+C_drop,coal,"subbituminous coal, pc boiler with ff baghouse",1,"Subbituminous Coal, PC Boiler with FF Baghouse",coal/lignite
+C_drop,coal,"subbituminous coal, pc boiler with pm scrubber",1,"Subbituminous Coal, PC Boiler with PM Scrubber",coal/lignite
+C_drop,coal,"subbituminous coal, pc boiler with sda/esp",1,"Subbituminous Coal, PC Boiler with SDA/ESP",coal/lignite
+C_drop,coal,"subbituminous coal, pc boiler with sda/ff baghouse",1,"Subbituminous Coal, PC Boiler with SDA/FF Baghouse",coal/lignite
+C_drop,coal,"subbituminous coal/pet. coke, cyclone boiler with esp",1,"Subbituminous Coal/Pet. Coke, Cyclone Boiler with ESP-HS",coal/lignite
+C_drop,fuel oil/diesel,paved road dust,1,Paved Road Dust,fuel oil; transport exhaust
+C_drop,waste/open burning,composite tire wear,1,Composite Tire Wear,waste/open burning
+C_drop,waste/open burning,methyl styrene,1,Methyl Styrene,waste/open burning
+C_drop,waste/open burning,oil and natural gas production,1,Oil and Natural Gas Production - Produced Water Pond,waste/open burning
+C_drop,waste/open burning,pulp and paper mills,1,Pulp and Paper Mills - Kraft Lime Kilns with Wet Scrubbers,industrial/reference proxy; waste/open burning
+C_drop,waste/open burning,rubber and miscellaneous plastics products,1,"Rubber and Miscellaneous Plastics Products - Fabricated Rubber Products - Styrene/Butadiene, Rubber",waste/open burning
+C_drop,wood/biomass,clear wood finishes,1,Clear Wood Finishes - 1996,weak/false positive
+C_drop,wood/biomass,cons prd,1,CONS PRD- FLOOR POLISH OR WAX - WOOD (2010 UPDATE),weak/false positive
+C_drop,wood/biomass,consumer products: wood fillers,1,Consumer Products: Wood Fillers,weak/false positive
+C_drop,wood/biomass,consumer products: wood floor wax/polish,1,Consumer Products: Wood Floor Wax/Polish,weak/false positive
+C_drop,wood/biomass,consumer products: woodworking glues,1,Consumer Products: Woodworking Glues,weak/false positive
+C_drop,wood/biomass,draft wood product sanding,1,Draft Wood Product Sanding - Simplified,weak/false positive
+C_drop,wood/biomass,flat wood coating,1,Flat Wood Coating,weak/false positive
+C_drop,wood/biomass,fly ash,1,Fly Ash,weak/false positive
+C_drop,wood/biomass,outdoor hydronic heater,1,Outdoor Hydronic Heater - European Pellet unit- hardwood pellets from sawdust,residential/heating; transport exhaust
+C_drop,wood/biomass,outdoor wood,1,Outdoor Wood-fired Boiler - Hardwood Pellets from Sawdust,residential/heating
+C_drop,wood/biomass,pulp and paper industry,1,Pulp and Paper Industry - Plywood Veneer Dryer,weak/false positive
+C_drop,wood/biomass,wood furniture coating,1,Wood Furniture Coating,weak/false positive
+C_drop,wood/biomass,wood operation,1,Wood Operation - Resawing,weak/false positive

@@ -1,0 +1,13 @@
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+outputs/.DS_Store
+data/.DS_Store
+data/raw/.DS_Store
+outputs/.atsdr_pollutant_enrichment_cache.json
+outputs/.atsdr_summary_cache.json
+outputs/.niosh_pocket_guide_cache.json
+outputs/.pubchem_enrichment_cache.json
+outputs/atsdr_probe/
+outputs/atsdr_summaries/
